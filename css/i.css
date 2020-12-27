@@ -1,0 +1,57 @@
+.navbar{
+  background-color: #045762 !important;
+  height: 90px;
+ 
+}
+strong{
+  color: white;
+}
+.card {
+  border-radius: 60px;
+}
+.nnn{
+  color: white !important;
+}
+#imw{
+  border-radius: 60px 0px 60px 0px;
+  height: 400px !important;
+}
+.imww{
+  height: 600px;
+}
+.ll{
+  color:#045762 ;
+  text-decoration: none;
+  border: #045762 !important ;
+  font-size: 20px;
+}
+.nnn:hover{
+background-color: #EBBA16;
+border-radius: 20px;
+color: #045762 !important;
+}
+.ll:hover{
+  background-color: #EBBA16;
+  border-radius: 20px;
+  color: #045762 !important;
+  }
+.navl{
+  margin: auto 20px;
+}
+.imvalue{
+  height: 510px;
+  width: 100%;
+}
+body {
+    background-color: #ffffff;
+    font-family: "Lato", sans-serif;
+    color: #333333;
+    font-size: 16px;
+    overflow-x: hidden;
+  }
+  
+  .no-padding {
+    padding: 0;
+  }
+  
+  
